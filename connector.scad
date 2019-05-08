@@ -1,3 +1,5 @@
+$fn=32;
+
 translate([ 0, 0, 0]) connectorWithoutCap();
 translate([10, 0, 0]) connectorWithCap();
 
